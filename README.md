@@ -10,3 +10,4 @@
 <img width="960" alt="6" src="https://user-images.githubusercontent.com/54313368/153643339-3481305b-d354-4e41-a258-01e59b628c71.png">
 
 My [Project Demo](https://youtu.be/CNmCvodMhBg).
+My [Azure Site Demo](https://soodnikhil.azurewebsites.net/).
