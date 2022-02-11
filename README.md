@@ -1,4 +1,6 @@
-# rozy
+## rozy
+
+-A java based webApp, used MongoDB as database
 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/54313368/153643315-fe124115-6f05-4d2f-80b5-716736cc7693.png">
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/54313368/153643328-3e078ac8-4624-4947-9cd5-0e822eb6b5ce.png">
